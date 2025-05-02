@@ -1,0 +1,20 @@
+{
+  "name": "Kill the Cockroaches",
+  "short_name": "KillRoaches",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#8B4513",
+  "theme_color": "#A0522D",
+  "icons": [
+    {
+      "src": "assets/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
