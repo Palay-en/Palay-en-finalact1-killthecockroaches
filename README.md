@@ -24,7 +24,7 @@ Dive into a thrilling bug-squashing adventure! This Progressive Web App (PWA) le
 
 ## How to Access
 
-**URL**: [https://Palay-en.github.io/kill-the-cockroaches/](https://Palay-en.github.io/Palay-en-finalact1-killthecockroaches/)
+**URL**: [https://Palay-en.github.io/Palay-en-finalact1-killthecockroaches/](https://Palay-en.github.io/Palay-en-finalact1-killthecockroaches/)
 
 No installation required—just open the link in your browser and start playing!
 
