@@ -1,6 +1,6 @@
 # Kill the Cockroaches – A Fun PWA Game
 
-**Live Demo**: [Play Now](https://Palay-en.github.io/kill-the-cockroaches/)
+**Live Demo**: [Play Now](https://palay-en.github.io/Palay-en-finalact1-killthecockroaches/)
 
 Dive into a thrilling bug-squashing adventure! This Progressive Web App (PWA) lets you eliminate cockroaches with a slipper cursor. Fully offline-capable and installable, it’s built with pure web technologies.
 
